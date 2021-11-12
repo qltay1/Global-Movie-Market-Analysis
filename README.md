@@ -6,6 +6,6 @@ Datasets used for this project were web-scrapped from the source: https://www.th
 The aim of this project is to determine the most influential country in the movie industry across 1995 to 2021 from the aspect of:
 
 1. Number of movies created.
-2. Total worldiwde box offices.
+2. Total worldwide box offices.
 3. Capital injected on movies.
 
