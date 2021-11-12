@@ -1,4 +1,4 @@
-# Global-Movie-Market-Analysis-
+# Global Movie Market Analysis
 
 
 Datasets used for this project were web-scrapped from the source: https://www.the-numbers.com/market/ where a total of 9 tables were scrapped with information ranging from top movies across the year, annual ticket earnings, top-grossing genres and etc.
